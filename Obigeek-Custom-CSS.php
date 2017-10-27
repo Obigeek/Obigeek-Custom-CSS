@@ -3,11 +3,11 @@
 /*
 Plugin Name: Obigeek Custom CSS
 Author: Joe Izzard
-Version: 1.0.0
+Version: 1.0.1
 */
 
 $Obicust = array(
-  'Version' => '1.0.0',
+  'Version' => '1.0.1',
   'Minified' => false
 );
 
